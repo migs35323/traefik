@@ -46,7 +46,7 @@ metadata:
   name: foo-ip-whitelist
 spec:
   ipWhiteList:
-    sourcerange:
+    sourceRange:
       - 127.0.0.1/32
       - 192.168.1.7
 
